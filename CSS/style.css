@@ -1,0 +1,29 @@
+body {
+  background-color: blue;
+  margin-left: 50px;
+    
+}
+
+header{
+    margin-top: 30px;
+}
+h1{
+    color: red;
+    font-family: sans-serif;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-size: 18px;
+}
+.padrão{
+    margin-bottom: 20px;
+}
+
+header{
+    margin-bottom: 50px;
+}
+.contact{
+    color: red;
+}
